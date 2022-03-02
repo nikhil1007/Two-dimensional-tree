@@ -6,7 +6,7 @@ In this project we accomplish the following tasks:
 <li> Implement functionalities like : range_search, nearest neighbor
 <li> Construct a KML file to view the results in GIS tools like google earth
   
-##References
+## References
 1. Robert Sedwick video on kd tree: https://www.youtube.com/watch?v=1OoM0phlO_U
 2. kd trees : https://en.wikipedia.org/wiki/K-d_tree
 3. nearest neighbor search : https://en.wikipedia.org/wiki/Nearest_neighbor_search
