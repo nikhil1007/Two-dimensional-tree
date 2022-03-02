@@ -1,8 +1,5 @@
 /**
  * Name: Nikhil Kashyap (nikhilka)
- * Course: Data Structures and Algorithms 95-771, CMU
- * Assignment: Project 2 - 2d Trees
- * Date of Submission: 15th Feb 2022
  */
 
 import java.io.File;
