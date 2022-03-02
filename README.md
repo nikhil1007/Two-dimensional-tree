@@ -10,5 +10,5 @@ In this project we accomplish the following tasks:
 1. Robert Sedwick video on kd tree: https://www.youtube.com/watch?v=1OoM0phlO_U
 2. kd trees : https://en.wikipedia.org/wiki/K-d_tree
 3. nearest neighbor search : https://en.wikipedia.org/wiki/Nearest_neighbor_search
-4. Data structures and Algorithms by Asst Prof Michael McCarthy @ Carnegie Mellon University, Heinz College
+4. Data structures and Algorithms by A.Prof Michael McCarthy @ Carnegie Mellon University, Heinz College
 
